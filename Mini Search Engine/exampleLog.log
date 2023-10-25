@@ -1,0 +1,91 @@
+The number of rows specified by the user: 5
+The number of columns specified by the user: 6
+
+These are the documents:
+
+4 6 8 1 2 3 
+6 0 0 9 4 3 
+1 2 2 4 6 5 
+2 2 6 0 0 4 
+1 2 5 3 2 6 
+
+The number of times the user has searched is 1
+The word index specified by the user: 2
+The number of documents specified by the user: 3
+
+The top 3 documents are:
+#1: Document 3
+#2: Document 0
+#3: Document 4
+
+
+
+The number of times the user has searched is 2
+The word index specified by the user: 0
+The number of documents specified by the user: 5
+
+The top 5 documents are:
+#1: Document 1
+#2: Document 0
+#3: Document 3
+#4: Document 4
+#5: Document 2
+
+
+
+The number of rows specified by the user: 12
+The number of columns specified by the user: 7
+
+These are the documents:
+
+7 7 1 6 9 7 2 
+5 2 3 0 2 8 1 
+3 4 1 7 2 0 9 
+5 2 2 4 9 0 8 
+9 1 7 0 8 9 1 
+4 6 6 6 5 9 8 
+4 9 9 8 2 8 2 
+1 4 5 0 6 3 0 
+5 7 7 5 9 9 3 
+5 9 1 2 1 9 4 
+1 4 5 5 2 7 6 
+4 2 7 0 5 8 8 
+
+The number of times the user has searched is 1
+The word index specified by the user: 5
+The number of documents specified by the user: 8
+
+The top 8 documents are:
+#1: Document 1
+#2: Document 9
+#3: Document 4
+#4: Document 11
+#5: Document 10
+#6: Document 5
+#7: Document 8
+#8: Document 6
+
+
+
+The number of rows specified by the user: 4
+The number of columns specified by the user: 5
+
+These are the documents:
+
+6 1 3 9 8 
+1 3 4 5 1 
+7 5 0 2 5 
+1 3 6 4 1 
+
+The number of times the user has searched is 1
+The word index specified by the user: 2
+The number of documents specified by the user: 4
+
+The top 4 documents are:
+#1: Document 3
+#2: Document 1
+#3: Document 0
+#4: Document 2
+
+
+
